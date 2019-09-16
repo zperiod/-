@@ -1,7 +1,9 @@
- * 演示  
- * [后台管理](https://39.98.190.128/index.html)  
- * [移动端](https://39.98.190.128/mall-app/mainpage.html)  
- * 项目地址  
- * [后台项目](https://github.com/macrozheng/mall)  
- * [前端项目](https://github.com/macrozheng/mall-admin-web)  
- * [学习教程](https://github.com/macrozheng/mall-learning)  
+* 演示
+  * [后台管理](README.md)
+  * [移动端](README.md)
+
+* 项目地址
+  * [后台项目](README.md)
+  * [前端项目](README.md)
+  * [学习教程](README.md)
+  * [项目骨架](README.md)
